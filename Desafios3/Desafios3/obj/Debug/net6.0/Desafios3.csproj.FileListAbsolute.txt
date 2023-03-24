@@ -1,0 +1,15 @@
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios3\Desafios3\bin\Debug\net6.0\Desafios3.exe
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios3\Desafios3\bin\Debug\net6.0\Desafios3.deps.json
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios3\Desafios3\bin\Debug\net6.0\Desafios3.runtimeconfig.json
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios3\Desafios3\bin\Debug\net6.0\Desafios3.dll
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios3\Desafios3\bin\Debug\net6.0\Desafios3.pdb
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios3\Desafios3\obj\Debug\net6.0\Desafios3.csproj.AssemblyReference.cache
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios3\Desafios3\obj\Debug\net6.0\Desafios3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios3\Desafios3\obj\Debug\net6.0\Desafios3.AssemblyInfoInputs.cache
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios3\Desafios3\obj\Debug\net6.0\Desafios3.AssemblyInfo.cs
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios3\Desafios3\obj\Debug\net6.0\Desafios3.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios3\Desafios3\obj\Debug\net6.0\Desafios3.dll
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios3\Desafios3\obj\Debug\net6.0\refint\Desafios3.dll
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios3\Desafios3\obj\Debug\net6.0\Desafios3.pdb
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios3\Desafios3\obj\Debug\net6.0\Desafios3.genruntimeconfig.cache
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios3\Desafios3\obj\Debug\net6.0\ref\Desafios3.dll

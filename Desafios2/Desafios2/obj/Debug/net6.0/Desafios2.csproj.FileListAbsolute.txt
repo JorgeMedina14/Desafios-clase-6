@@ -1,0 +1,15 @@
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios2\Desafios2\bin\Debug\net6.0\Desafios2.exe
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios2\Desafios2\bin\Debug\net6.0\Desafios2.deps.json
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios2\Desafios2\bin\Debug\net6.0\Desafios2.runtimeconfig.json
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios2\Desafios2\bin\Debug\net6.0\Desafios2.dll
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios2\Desafios2\bin\Debug\net6.0\Desafios2.pdb
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios2\Desafios2\obj\Debug\net6.0\Desafios2.csproj.AssemblyReference.cache
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios2\Desafios2\obj\Debug\net6.0\Desafios2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios2\Desafios2\obj\Debug\net6.0\Desafios2.AssemblyInfoInputs.cache
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios2\Desafios2\obj\Debug\net6.0\Desafios2.AssemblyInfo.cs
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios2\Desafios2\obj\Debug\net6.0\Desafios2.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios2\Desafios2\obj\Debug\net6.0\Desafios2.dll
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios2\Desafios2\obj\Debug\net6.0\refint\Desafios2.dll
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios2\Desafios2\obj\Debug\net6.0\Desafios2.pdb
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios2\Desafios2\obj\Debug\net6.0\Desafios2.genruntimeconfig.cache
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Desafios3\Desafios2\Desafios2\obj\Debug\net6.0\ref\Desafios2.dll
